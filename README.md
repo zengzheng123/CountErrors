@@ -1,8 +1,5 @@
 # CountErrors 1.1.1
 
-##### Calculate the 
-
-
 ### Install:
 Run "make" in the program directory to compile
 
