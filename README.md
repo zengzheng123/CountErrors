@@ -1,5 +1,8 @@
 # CountErrors 1.1.1
 
+##### Calculate the 
+
+
 ### Install:
 Run "make" in the program directory to compile
 
@@ -22,3 +25,8 @@ Run "make" in the program directory to compile
 --collapse_context                                      Collapse the context bases(left and right bases of the reference) when counting errors
 --help                                                  Print command line usage
 ```
+
+
+### This software uses the following library
+
+bamtools https://github.com/pezmaster31/bamtools
